@@ -104,7 +104,7 @@ class Setting extends StatelessWidget {
                             children: [
                               Item(Icons.help_outline, "Help", Edit()),
                               ModelBorder(Icons.account_box_outlined,
-                                  "Contact Us", Contact()),
+                                  "About Us", Contact()),
                               Item(Icons.logout, "Log out", Edit()),
                             ],
                           ),
